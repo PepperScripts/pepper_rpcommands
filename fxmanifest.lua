@@ -19,3 +19,12 @@ server_script 'server/main.lua'
 files {
     'locales/*.json',
 }
+
+-- Offener Quellcode: Wird die Ressource über das Cfx.re Portal ausgeliefert, bleibt alles lesbar und änderbar.
+escrow_ignore {
+    'config.lua',
+    'client/*.lua',
+    'server/*.lua',
+    'shared/*.lua',
+    'locales/*.json',
+}
