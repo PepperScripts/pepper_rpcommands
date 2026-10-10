@@ -1,0 +1,22 @@
+{
+    "help_me": "Beschreibe, was dein Charakter tut",
+    "help_do": "Beschreibe etwas, das andere sehen oder bemerken",
+    "help_try": "Versuche etwas – das Ergebnis ist Zufall",
+    "help_roll": "Würfeln",
+    "param_action": "Aktion",
+    "param_action_help": "z. B. öffnet den Kofferraum",
+    "param_sides": "Seiten",
+    "param_sides_help": "Anzahl der Seiten (Standard {default})",
+    "usage": "Benutzung: /{command} [Text]",
+    "cooldown": "Bitte warte einen Moment.",
+    "try_success": "gelingt",
+    "try_fail": "misslingt",
+    "overhead_me": "* {text}",
+    "overhead_do": "* {text} *",
+    "overhead_try": "* versucht: {text} – {result}",
+    "overhead_roll": "* würfelt {result} (1–{max})",
+    "chat_me": "* {name} {text}",
+    "chat_do": "* {text} ({name})",
+    "chat_try": "* {name} versucht: {text} – {result}",
+    "chat_roll": "* {name} würfelt {result} (1–{max})"
+}

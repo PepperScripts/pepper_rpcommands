@@ -1,0 +1,22 @@
+{
+    "help_me": "Describe what your character does",
+    "help_do": "Describe something others can see or notice",
+    "help_try": "Try something – the result is random",
+    "help_roll": "Roll a die",
+    "param_action": "action",
+    "param_action_help": "e.g. opens the trunk",
+    "param_sides": "sides",
+    "param_sides_help": "number of sides (default {default})",
+    "usage": "Usage: /{command} [text]",
+    "cooldown": "Please wait a moment.",
+    "try_success": "succeeds",
+    "try_fail": "fails",
+    "overhead_me": "* {text}",
+    "overhead_do": "* {text} *",
+    "overhead_try": "* tries to {text} – {result}",
+    "overhead_roll": "* rolls {result} (1–{max})",
+    "chat_me": "* {name} {text}",
+    "chat_do": "* {text} ({name})",
+    "chat_try": "* {name} tries to {text} – {result}",
+    "chat_roll": "* {name} rolls {result} (1–{max})"
+}
