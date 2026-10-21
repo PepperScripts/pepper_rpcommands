@@ -5,7 +5,7 @@ local function load(lang)
 end
 
 local fallback = load('en') or {}
-local strings = load(Config.Locale) or fallback
+local strings = load(Config.Locale or 'en') or fallback
 
 -- L('key', { name = 'Max' }) ersetzt {name} im Text.
 function L(key, vars)
